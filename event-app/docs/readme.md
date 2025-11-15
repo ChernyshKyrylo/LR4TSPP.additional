@@ -52,3 +52,5 @@ Commit messages used:
   1. Copy the SHA of the desired commit from the Source Control history
   2. Run `git cherry-pick <sha>` in the built-in terminal
   3. Resolve conflicts in VS Code if needed, stage, and complete the cherry-pick commit
+
+  ## Базові секції було додано
